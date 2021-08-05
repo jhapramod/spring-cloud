@@ -1,0 +1,6 @@
+/service/target
+/service/bin
+/discovery-server/target
+/discovery-server/bin
+/client/target
+/client/bin
