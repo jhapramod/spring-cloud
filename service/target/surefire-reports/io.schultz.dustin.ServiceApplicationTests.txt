@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: io.schultz.dustin.ServiceApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.18 sec - in io.schultz.dustin.ServiceApplicationTests
