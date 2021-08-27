@@ -1,4 +1,4 @@
-package io.schultz.dustin;
+package io.jha.pramod;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
