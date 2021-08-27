@@ -12,8 +12,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+import io.jha.config.pramod.RibbonTimeConfig;
+
 @RestController
-@LoadBalancerClient(name = "time-service")
+@LoadBalancerClient(name = "time-service", configuration = RibbonTimeConfig.class)
 @SpringBootApplication
 public class RibbonTimeAppApplication {
 	@Inject
